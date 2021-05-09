@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "to-do-list-app",
+    "slug": "snack-823708e7-d7a1-4ad6-bcea-4c9ab181d8ef",
+    "platforms": [ "ios", "android", "web" ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+  
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "io.expo.client"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "My self designed app \nTO DO LIST"
+    
+  }
+}
